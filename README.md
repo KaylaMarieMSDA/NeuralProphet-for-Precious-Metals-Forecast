@@ -1,0 +1,4 @@
+# NeuralProphet-for-Precious-Metals-Forecast
+Yahoo Finance provides past and current information of precious metals and their related trading prices. This project focuses on each of the documented commodities (Gold, Silver, Platinum, and Palladium) in combination with time series analysis to predict the closing market price for the next year into 2024. Predicting closing market value with each of the precious metals can indicate which metals are less of a financial risk for traders.  
+Dataset License: Kaggle. (2023a). Creative Commons License Deed. Creative Commons - Attribution-NonCommercial 4.0 International - CC BY-NC 4.0. https://creativecommons.org/licenses/by-nc/4.0/ 
+Dataset: Servera, G. (2023, August 23). Gold, silver & precious metals futures daily data. Kaggle. https://www.kaggle.com/datasets/guillemservera/precious-metals-data
